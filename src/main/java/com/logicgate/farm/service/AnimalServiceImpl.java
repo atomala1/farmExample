@@ -111,6 +111,8 @@ public class AnimalServiceImpl implements AnimalService {
     Map<Barn, List<Animal>> barnToAnimalsMap = getBarnToAnimalsMap(foundAnimal.getFavoriteColor());
 
     // Count the total animals
+    // I didn't do this in the repository since I already queried the entire dataset
+    // The spring repository method would be: int countAnimalByFavoriteColor(final Color color);
     int totalAnimals = barnToAnimalsMap
         .values()
         .stream()
