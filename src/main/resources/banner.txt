@@ -1,0 +1,32 @@
+
+${AnsiColor.BLUE}                    /  /
+${AnsiColor.BLUE}                 (\/__/)
+${AnsiColor.BLUE}                  /    \
+${AnsiColor.BLUE}                 O  O   \
+${AnsiColor.BLUE}                /        \
+${AnsiColor.BLUE}               /    _/    \
+${AnsiColor.BLUE}              /.   / \     \
+${AnsiColor.BLUE}               `--`   |     -----------------.
+${AnsiColor.BLUE}                  )   /                     \ \
+${AnsiColor.BLUE}                 (   |                      /\_)
+${AnsiColor.BLUE}                     \    |           /    |
+${AnsiColor.BLUE}                      |  /            \   /
+${AnsiColor.BLUE}                      / /--------------\  \
+${AnsiColor.BLUE}                     / /   | |     | |  \  |
+${AnsiColor.BLUE}                    / /    | |     | |   \ |
+${AnsiColor.BLUE}                   | |     | |     | |   | |
+${AnsiColor.BLUE}                   ```     ```     ```   ```
+${AnsiColor.RED} ██░     ░█████   ▄████  ██░ ▄████▄    ▄████  ▄▄▄     ▄▄▄█████░░█████
+${AnsiColor.RED}░██░    ░██░  ██░██░ ▀█░░██░░██▀ ▀█   ██░ ▀█░░████▄   ░  ██░ ░░░█   ▀
+${AnsiColor.RED}░██░    ░██░  ██░██░▄▄▄░░██░░██    ▄ ░██░▄▄▄░░██  ▀█▄ ░ ░██░ ░░░███
+${AnsiColor.RED}░██░    ░██   ██░░█  ██░░██░░░█▄ ▄██░░░█  ██░░██▄▄▄▄██░ ░██░ ░ ░░█  ▄
+${AnsiColor.RED}░██████░░ ████░░░░░███▀░░██░░ ░███▀ ░░░░███▀░ ░█   ░██░ ░██░ ░ ░░████░
+${AnsiColor.RED}░ ░░░  ░░ ░░░░░░ ░░   ░ ░░  ░ ░░ ░  ░ ░░   ░  ░░   ░░█░ ░ ░░   ░░ ░░ ░
+${AnsiColor.RED}░ ░ ░  ░  ░ ░ ░░  ░   ░  ░ ░  ░  ░     ░   ░   ░   ░░ ░   ░     ░ ░  ░
+${AnsiColor.RED} ░ ░   ░ ░ ░ ░ ░ ░   ░  ░ ░░        ░ ░   ░   ░   ░    ░         ░
+${AnsiColor.RED}     ░  ░    ░ ░       ░  ░  ░ ░            ░       ░  ░           ░  ░
+                            ░
+${AnsiColor.BLUE}███████████████████████████████████████████████████████████████████████
+${AnsiColor.GREEN}           ::  LogicGate Farm  :: (v1.0.1.RELEASE) ::
+${AnsiColor.CYAN}           ::    Spring Boot   ::${spring-boot.formatted-version} ::
+${AnsiColor.BLUE}███████████████████████████████████████████████████████████████████████
